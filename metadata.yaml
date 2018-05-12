@@ -1,0 +1,31 @@
+_repo: Boston-Neighbours-In-Town-and-Out_36196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poor, Agnes Blake
+    birthdate: 1842
+    deathdate: 1922
+    gutenberg_agent_id: '38130'
+    url: http://www.gutenberg.org/2009/agents/38130
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36196'
+  lccn: 07039646
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boston (Mass.) -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Our Tolstoi club -- A little fool -- Why I married Eleanor -- The
+  story of a wall-flower -- Poor Mr. Ponsonby -- Modern vengeance -- Three cups of
+  tea -- The tramps' wedding.
+title: Boston Neighbours In Town and Out
+url: http://www.gutenberg.org/ebooks/36196
